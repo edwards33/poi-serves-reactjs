@@ -1,4 +1,4 @@
-## Use POI POI serves React.js
+## Use POI serves React.js
 
   Install [POI](https://poi.js.org/):
 
